@@ -11,14 +11,24 @@ This will be a full stack app that enables users to upload images of pieces of t
 ### 👩‍💻Technical Details
 
 - React
+- TypeScript
+- Shadcn/UI
+- Next.js
 - Python
-- Libaries tbc 
+- Hugging Face
 
 ### 🔧How to Run the App
 
 ```bash
-  [tbc]
+  git clone https://github.com/ummagohil/understand-the-underline-be.git
 ```
 
+```bash
+  git clone https://github.com/ummagohil/understand-the-underline-fe.git
+```
+
+### 👀View App
+https://understand-the-underline.vercel.app/
+
 ### 💭Future Improvements
-Build both front-end and back-end integrations 
+tbc
